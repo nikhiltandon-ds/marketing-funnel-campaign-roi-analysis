@@ -1,0 +1,361 @@
+campaign_date,campaign_id,campaign_name,channel,campaign_type,segment,region,impressions,clicks,leads,customers,spend,revenue
+2025-01-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,493980,10423,806,134,36109.48,144392.43
+2025-02-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,477967,10637,785,131,34518.15,144640.64
+2025-03-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,579688,14014,918,172,45491.74,191467.71
+2025-04-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,504320,11426,730,131,39607.12,127619.66
+2025-05-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,542184,12601,821,109,41918.14,114429.41
+2025-06-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,452319,9449,622,106,39863.83,120839.2
+2025-07-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,551138,11469,864,156,40846.05,181133.42
+2025-08-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,524853,12367,865,160,45693.88,157918.5
+2025-09-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,504043,13314,1010,136,41981.78,147828.22
+2025-10-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,615403,14948,976,186,46229.64,204270.8
+2025-11-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,583705,15762,942,173,44739.31,194274.17
+2025-12-01,CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,692757,19596,1429,253,49664.0,252384.9
+2025-01-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,191126,4506,336,50,23733.8,55796.86
+2025-02-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,201696,4079,278,47,26478.95,55312.86
+2025-03-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,240650,5959,422,62,25920.88,69356.26
+2025-04-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,272172,6450,512,85,30016.68,86103.84
+2025-05-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,268656,6851,442,63,33405.92,64421.2
+2025-06-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,210439,5280,423,72,25996.46,79148.61
+2025-07-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,210973,5509,378,51,25487.63,54566.0
+2025-08-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,191945,5142,405,65,24962.05,71181.42
+2025-09-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,231911,6334,482,67,26304.7,69727.98
+2025-10-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,302337,7617,581,107,31874.08,118211.42
+2025-11-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,242392,6543,394,62,29518.41,69501.97
+2025-12-01,CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,310710,7888,577,97,40192.13,104316.4
+2025-01-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,604879,12710,755,127,41955.78,126661.45
+2025-02-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,478214,10026,607,81,37067.21,76687.88
+2025-03-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,665672,16504,1201,215,46533.09,226813.62
+2025-04-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,712391,17583,1220,168,49351.08,169874.98
+2025-05-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,623450,17574,1059,185,45046.71,186600.48
+2025-06-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,541892,14968,923,133,42198.62,131285.9
+2025-07-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,600836,14774,1203,164,40989.51,170621.07
+2025-08-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,742618,19523,1421,188,49535.9,169252.55
+2025-09-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,745892,17965,1281,242,51584.42,256248.67
+2025-10-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,680636,16295,1349,247,44246.66,231663.49
+2025-11-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,726743,19961,1516,248,56623.02,227966.56
+2025-12-01,CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,766089,20715,1252,191,50566.32,170339.13
+2025-01-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,573285,14843,1136,168,37995.89,170378.46
+2025-02-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,757404,19607,1472,235,50985.66,262252.42
+2025-03-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,607095,13580,1053,156,48058.3,167656.77
+2025-04-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,767054,17932,1408,193,52344.99,210069.47
+2025-05-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,703427,14905,962,144,56426.95,171750.11
+2025-06-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,725466,17309,1092,204,56736.77,233025.34
+2025-07-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,617194,16308,966,180,49415.49,189640.73
+2025-08-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,608286,13223,820,114,48196.78,126458.34
+2025-09-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,620008,16738,1076,187,45561.87,195562.68
+2025-10-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,646651,18206,1118,179,50862.85,187695.25
+2025-11-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,604486,15880,1045,189,46150.56,209590.58
+2025-12-01,CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,884276,18753,1536,295,55927.72,326744.35
+2025-01-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,191270,4912,379,68,24879.31,70309.01
+2025-02-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,234436,5990,466,69,25176.23,77562.05
+2025-03-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,195684,5138,412,72,25625.67,85055.65
+2025-04-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,202528,4416,349,60,25406.48,70651.16
+2025-05-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,288309,7384,434,77,32308.88,90576.52
+2025-06-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,217860,4984,317,55,27826.57,57079.1
+2025-07-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,222062,4835,374,69,24418.96,72388.83
+2025-08-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,249551,6795,471,86,28910.24,87131.74
+2025-09-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,311655,8438,528,69,34141.67,74743.25
+2025-10-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,291729,7030,483,71,33081.73,79123.3
+2025-11-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,244928,4665,368,58,30531.54,66454.62
+2025-12-01,CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,301447,6654,384,63,37249.3,66800.51
+2025-01-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,515161,8879,499,57,33244.25,54128.33
+2025-02-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,439062,6236,352,44,31327.63,43148.8
+2025-03-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,513115,9107,522,63,32150.22,57241.35
+2025-04-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,558047,9930,639,91,37680.17,86313.7
+2025-05-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,465334,7810,368,56,32568.3,48750.75
+2025-06-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,472441,6637,306,47,34155.38,44168.47
+2025-07-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,559142,10249,581,82,37250.28,73633.08
+2025-08-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,517049,8883,559,83,31873.51,82183.89
+2025-09-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,612770,10941,646,83,38480.07,77177.6
+2025-10-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,679625,9493,517,68,41607.63,63248.84
+2025-11-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,519716,8190,503,75,37142.19,67937.0
+2025-12-01,CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,699942,9882,616,78,46522.94,75315.82
+2025-01-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,556622,8354,426,52,31405.56,39837.36
+2025-02-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,526160,9154,546,59,30906.1,44011.35
+2025-03-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,606178,8817,476,72,37291.75,55640.17
+2025-04-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,596435,10627,565,59,40655.64,43510.57
+2025-05-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,595607,11267,608,88,40569.7,67497.07
+2025-06-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,687740,10055,546,58,40286.02,42635.32
+2025-07-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,634085,9068,498,55,38899.11,42822.07
+2025-08-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,489810,8150,376,52,29972.31,36640.57
+2025-09-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,668241,10394,517,63,37429.36,50381.54
+2025-10-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,568327,10347,523,57,37842.77,39155.94
+2025-11-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,609231,9372,549,80,42842.3,62645.34
+2025-12-01,CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,686271,9952,457,51,47739.77,35862.46
+2025-01-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,423655,7050,453,64,28354.95,55449.75
+2025-02-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,429587,7081,450,60,28339.8,53266.89
+2025-03-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,419942,6000,341,50,32094.22,38929.31
+2025-04-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,561575,9599,586,85,36958.92,70688.0
+2025-05-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,417668,7084,329,45,29089.26,33335.86
+2025-06-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,500822,7836,410,61,34527.3,49665.64
+2025-07-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,466263,7533,437,59,29716.11,52491.38
+2025-08-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,509496,9125,519,62,34911.25,48299.27
+2025-09-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,599345,9437,566,75,39219.51,63630.74
+2025-10-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,491172,7377,404,49,33895.45,38275.43
+2025-11-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,505411,9210,517,67,35731.73,51595.62
+2025-12-01,CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,544673,8905,444,57,36793.62,48767.83
+2025-01-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,367262,6130,318,41,26646.11,36513.34
+2025-02-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,420362,6272,335,39,32894.03,33920.36
+2025-03-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,432955,7421,469,64,31992.79,55205.31
+2025-04-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,457086,7437,442,58,33444.72,58443.25
+2025-05-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,458531,6865,347,48,33718.46,40830.71
+2025-06-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,391944,5715,360,48,27063.89,46357.16
+2025-07-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,381999,5554,300,36,26077.62,36175.75
+2025-08-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,314300,4266,195,24,26410.25,22402.97
+2025-09-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,460235,8067,510,54,32609.55,47141.92
+2025-10-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,429806,7009,397,56,32562.64,50248.93
+2025-11-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,528169,8590,455,60,38850.15,50306.42
+2025-12-01,CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,588599,10155,577,67,41131.34,56433.66
+2025-01-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,269871,4144,185,21,24125.61,15266.44
+2025-02-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,373052,5236,258,36,28616.81,27851.33
+2025-03-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,373747,4998,242,26,29641.45,18833.78
+2025-04-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,325323,5583,311,44,24878.46,36256.94
+2025-05-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,318354,4594,238,27,27018.09,20684.08
+2025-06-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,320659,5676,331,43,28064.84,29581.05
+2025-07-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,276930,4857,270,27,24670.98,21606.58
+2025-08-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,328465,5583,265,33,28601.15,24790.22
+2025-09-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,270084,4096,245,36,25849.47,27195.9
+2025-10-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,342843,4565,216,26,28057.56,19742.09
+2025-11-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,391563,6649,298,31,32682.75,22393.3
+2025-12-01,CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,312094,5482,330,33,28432.94,26932.75
+2025-01-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,327337,16658,1879,291,13266.28,69116.95
+2025-02-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,433232,22601,2013,421,16294.35,101175.28
+2025-03-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,394561,19564,2056,303,13828.54,78281.8
+2025-04-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,469638,19719,2277,401,17764.0,98401.0
+2025-05-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,427472,23323,2822,446,15432.62,105974.73
+2025-06-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,366207,17884,2096,423,15396.66,95037.39
+2025-07-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,440852,24822,2567,510,16487.31,114742.22
+2025-08-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,347662,19969,2052,310,13550.05,73474.6
+2025-09-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,382100,18896,1918,313,14769.64,69033.47
+2025-10-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,441949,19455,2206,317,17163.54,78207.36
+2025-11-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,450622,21042,2298,456,18489.71,117564.86
+2025-12-01,CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,532696,25960,2765,559,18077.56,141316.27
+2025-01-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,224193,12500,1077,207,10707.39,50110.23
+2025-02-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,303191,12274,1171,217,12969.48,55492.13
+2025-03-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,332876,18089,1832,322,15042.74,83714.63
+2025-04-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,272949,12020,1102,159,12500.08,44252.42
+2025-05-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,315487,12882,1153,183,14512.91,42105.56
+2025-06-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,335336,15177,1505,234,13139.66,58394.22
+2025-07-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,343265,14455,1528,252,13898.13,66356.6
+2025-08-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,281669,12138,1296,220,12599.27,57748.25
+2025-09-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,350770,15449,1598,229,15254.93,63349.51
+2025-10-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,389215,21649,2353,400,16246.44,97585.26
+2025-11-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,368218,15074,1468,240,17517.78,58474.96
+2025-12-01,CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,431846,23042,2256,314,16765.91,85584.65
+2025-01-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,848931,39601,4712,772,23269.74,164238.67
+2025-02-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,717787,40658,4647,733,19585.71,152850.55
+2025-03-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,1019714,58161,5193,907,23318.19,190543.32
+2025-04-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,1069592,53583,5131,1056,26354.83,257533.32
+2025-05-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,850359,40339,3806,819,21871.52,202250.71
+2025-06-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,1116805,65398,7787,1420,27300.57,294700.52
+2025-07-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,1008755,55429,6322,1120,24226.51,271580.93
+2025-08-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,944841,46966,4613,724,21902.68,159887.47
+2025-09-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,1027787,50830,5727,1003,24915.35,235434.78
+2025-10-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,898173,53811,5417,1045,23753.89,244004.9
+2025-11-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,1054638,58436,6608,1033,26881.43,212980.77
+2025-12-01,CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,796120,35449,3441,645,22903.77,143028.09
+2025-01-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,821104,44366,5528,934,22209.58,228036.85
+2025-02-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,804261,37755,3861,853,19873.66,195302.4
+2025-03-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,1001692,43740,4326,952,25957.15,244018.04
+2025-04-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,1168823,54346,6141,1352,26402.17,289408.06
+2025-05-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,793783,45429,4369,916,22210.69,217778.94
+2025-06-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,930553,43630,5158,1066,25054.57,255536.16
+2025-07-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,764213,46599,5086,1055,21361.29,228777.74
+2025-08-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,1080593,53192,6318,1212,24669.81,257455.88
+2025-09-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,961065,48434,4486,686,21911.86,159678.07
+2025-10-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,918703,46832,4534,879,23524.14,216136.88
+2025-11-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,1150495,55417,6270,944,29910.44,244168.92
+2025-12-01,CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,1246686,55542,6433,1165,30668.13,295888.46
+2025-01-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,337040,17540,1723,313,13766.43,70597.77
+2025-02-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,348009,18601,1644,305,13695.75,77155.03
+2025-03-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,335985,15835,1853,313,14627.42,78438.36
+2025-04-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,342917,15461,1480,233,14481.64,59773.12
+2025-05-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,391081,16126,1408,240,15556.37,59209.31
+2025-06-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,401208,16325,1951,350,14632.81,85119.1
+2025-07-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,320546,17959,1792,366,13980.28,78360.61
+2025-08-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,336875,13963,1437,217,12876.5,50856.6
+2025-09-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,426846,21055,1862,297,16469.96,66028.6
+2025-10-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,370570,19641,2105,394,15049.09,93720.4
+2025-11-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,412287,21322,1818,289,17126.89,71540.14
+2025-12-01,CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,507818,21736,1945,362,19598.69,77813.09
+2025-01-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,592714,16059,1323,250,26866.16,185216.93
+2025-02-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,749408,18069,1370,249,31185.04,180879.88
+2025-03-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,620420,17739,1502,237,29788.11,174857.18
+2025-04-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,644533,17078,1572,271,29287.04,196601.13
+2025-05-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,621609,18504,1316,210,28006.47,138906.02
+2025-06-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,692004,18657,1327,253,30105.48,166086.29
+2025-07-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,637426,18321,1774,345,30899.65,221462.19
+2025-08-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,836587,19878,1979,393,34416.99,280066.18
+2025-09-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,697825,19461,1450,203,33872.64,137511.68
+2025-10-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,793145,25520,2540,368,37695.64,276134.54
+2025-11-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,718523,20828,1733,277,33915.95,188212.54
+2025-12-01,CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,858059,24754,1843,321,36497.96,243636.29
+2025-01-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,326056,9268,849,150,19140.45,102148.87
+2025-02-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,383337,11472,1051,172,24231.81,135838.18
+2025-03-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,366339,10493,994,174,23943.06,117829.22
+2025-04-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,336838,8579,660,90,21026.84,65616.14
+2025-05-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,359211,8277,776,107,22476.41,83570.72
+2025-06-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,425732,11701,967,165,27693.63,127130.63
+2025-07-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,422631,12879,1138,176,26430.72,127503.48
+2025-08-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,353149,8299,795,124,20004.48,94141.34
+2025-09-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,414862,10340,847,138,24197.87,100921.07
+2025-10-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,364344,9208,746,116,22359.99,86101.25
+2025-11-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,449719,10402,744,133,29474.64,92644.05
+2025-12-01,CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,459284,14433,1372,214,30166.16,158370.03
+2025-01-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,871797,26347,2667,433,35126.23,274508.28
+2025-02-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,838447,26002,2543,490,37288.62,330310.9
+2025-03-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,845605,24029,1996,331,36203.73,201391.71
+2025-04-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,740513,21532,1697,255,33921.8,151733.02
+2025-05-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,1086883,34858,3416,693,40654.52,408805.67
+2025-06-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,819548,20768,1735,263,36066.75,182278.69
+2025-07-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,878075,22570,1929,327,39014.93,220047.19
+2025-08-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,773573,20855,1987,342,31569.81,223812.14
+2025-09-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,781554,22584,2213,368,34723.0,260590.71
+2025-10-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,1082582,29150,2440,433,44368.45,307696.23
+2025-11-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,1025186,26058,2073,385,45472.17,268974.55
+2025-12-01,CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,1171395,38493,3792,609,43832.51,416680.96
+2025-01-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,552722,17813,1761,360,26854.18,257619.24
+2025-02-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,719057,19950,1472,228,30840.39,159964.92
+2025-03-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,629336,17127,1298,184,29268.51,145134.21
+2025-04-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,724958,22927,1969,359,34611.36,282566.33
+2025-05-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,703142,17775,1788,325,28976.27,232968.42
+2025-06-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,934681,23359,1838,338,38736.01,252107.85
+2025-07-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,604136,17476,1537,282,28878.75,208377.39
+2025-08-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,820884,19487,1603,287,34487.25,195869.72
+2025-09-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,819408,22516,2275,404,36444.97,310959.46
+2025-10-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,920219,30200,2192,365,36014.06,258986.78
+2025-11-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,975589,23830,1877,348,41668.37,233262.12
+2025-12-01,CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,880621,22114,1818,296,41347.32,221642.15
+2025-01-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,693490,21708,1837,290,30539.15,171301.5
+2025-02-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,591932,19483,1683,346,25918.72,226835.52
+2025-03-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,532768,13482,1099,210,27802.97,146486.29
+2025-04-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,663623,17997,1763,333,29704.8,233533.86
+2025-05-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,541586,15399,1322,266,29672.69,173566.56
+2025-06-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,676231,16335,1455,283,35080.44,185623.0
+2025-07-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,643323,19378,1549,277,28458.82,177389.44
+2025-08-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,647902,15408,1500,243,30738.1,173686.58
+2025-09-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,525827,17385,1265,229,28848.4,144780.77
+2025-10-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,690087,22851,1711,307,35410.85,210777.16
+2025-11-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,670196,20995,1717,281,29546.07,185106.45
+2025-12-01,CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,729713,24133,1978,376,37441.18,248013.3
+2025-01-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,337371,2762,109,11,20404.87,10123.32
+2025-02-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,342811,3633,145,16,19902.48,14127.63
+2025-03-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,547613,4697,177,16,27678.3,14180.37
+2025-04-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,491694,5671,297,34,28774.58,30111.14
+2025-05-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,478256,4381,171,20,24736.56,17680.75
+2025-06-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,430430,3827,200,24,22663.06,19325.88
+2025-07-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,452546,4584,202,26,23823.97,20463.59
+2025-08-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,527450,5016,241,26,25732.43,21705.71
+2025-09-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,430601,3677,153,13,23873.2,10974.49
+2025-10-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,517743,5716,259,29,25682.39,25970.16
+2025-11-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,443881,4963,247,27,24191.49,22050.93
+2025-12-01,CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,424726,3778,195,21,25545.17,17079.05
+2025-01-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,670257,6333,291,32,27228.35,25397.38
+2025-02-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,771369,8294,407,47,31575.74,42686.81
+2025-03-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,617471,5214,198,23,29715.1,19850.18
+2025-04-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,668467,6595,315,35,31751.86,30506.63
+2025-05-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,559346,5654,285,34,27705.4,27729.17
+2025-06-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,667540,6642,300,29,26651.28,25175.84
+2025-07-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,582723,6426,330,43,27375.67,33850.9
+2025-08-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,591593,5625,252,25,26799.15,20178.66
+2025-09-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,616293,6007,284,28,26125.82,25538.86
+2025-10-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,648914,6785,287,35,27767.5,29739.68
+2025-11-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,754006,7140,269,35,33648.38,29782.39
+2025-12-01,CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,965806,9303,354,39,40165.61,35684.91
+2025-01-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,605157,6943,339,41,28121.95,33915.58
+2025-02-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,526607,4727,218,20,25303.97,17014.47
+2025-03-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,666701,7907,381,35,29838.68,32576.74
+2025-04-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,546265,5189,271,33,27640.05,26361.71
+2025-05-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,595562,5023,197,20,28143.13,16910.73
+2025-06-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,593498,6018,255,29,28760.28,22986.14
+2025-07-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,637011,5959,253,31,31830.14,26520.43
+2025-08-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,626336,7034,303,35,28174.69,32605.39
+2025-09-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,574786,6266,302,27,29095.3,22833.37
+2025-10-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,670530,7434,345,41,33836.46,35432.16
+2025-11-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,580943,6111,310,29,28301.89,25540.98
+2025-12-01,CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,536229,4648,173,17,28064.6,13442.64
+2025-01-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,535581,6059,296,35,25668.76,29861.17
+2025-02-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,482954,4817,207,27,26091.46,22764.86
+2025-03-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,557992,5964,304,36,27225.38,32458.35
+2025-04-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,538868,6309,262,26,25904.77,24051.37
+2025-05-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,617149,6662,321,35,31719.19,29629.83
+2025-06-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,546260,5930,247,28,29108.93,24005.59
+2025-07-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,645307,6125,303,28,30351.55,21620.24
+2025-08-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,683036,7915,377,45,29630.35,36062.0
+2025-09-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,672292,6909,286,26,30660.0,23164.74
+2025-10-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,613678,7069,287,28,26420.68,21896.94
+2025-11-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,611195,6545,256,33,29298.33,30731.08
+2025-12-01,CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,575479,6578,294,34,28789.2,30379.17
+2025-01-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,761918,7963,367,44,30474.63,45546.24
+2025-02-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,770384,8922,358,46,31515.51,48146.43
+2025-03-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,639309,7531,400,52,28334.04,53234.06
+2025-04-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,569643,4979,266,27,25686.68,28218.36
+2025-05-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,683908,8062,413,45,30299.91,40208.01
+2025-06-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,667274,6692,278,27,27208.09,26920.41
+2025-07-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,710258,7900,317,40,32026.03,41103.88
+2025-08-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,697729,6046,292,28,31071.02,24740.03
+2025-09-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,683090,6355,261,32,28475.29,33230.34
+2025-10-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,628207,5270,253,30,29363.86,26058.85
+2025-11-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,699059,6874,313,40,29578.35,39630.29
+2025-12-01,CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,819782,9596,404,47,33033.06,42230.54
+2025-01-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,463251,4476,216,23,26774.37,23169.72
+2025-02-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,416708,3997,173,19,26398.63,18142.08
+2025-03-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,440638,4565,165,18,25392.79,18477.88
+2025-04-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,393788,3119,147,14,23678.05,13779.59
+2025-05-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,461791,4757,196,16,27451.03,14081.11
+2025-06-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,428857,3945,176,16,25953.91,13746.18
+2025-07-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,441728,3575,127,12,23188.54,11856.88
+2025-08-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,459120,4723,233,23,24477.51,20919.59
+2025-09-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,427776,4050,184,21,23266.44,19449.1
+2025-10-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,514701,5333,214,17,30299.58,17649.19
+2025-11-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,596264,6068,220,26,32409.56,24171.71
+2025-12-01,CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,400253,4040,185,22,26597.89,20745.36
+2025-01-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,561398,4796,238,26,26188.57,22787.45
+2025-02-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,680718,6932,338,27,32333.04,24142.2
+2025-03-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,627987,6041,278,23,27012.92,22901.16
+2025-04-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,687985,5743,278,23,31199.38,21867.02
+2025-05-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,565307,5691,228,24,29457.17,23586.75
+2025-06-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,670721,5432,246,22,30942.21,20066.09
+2025-07-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,496114,5241,258,27,26617.13,25276.54
+2025-08-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,550508,5929,270,30,29687.55,27466.79
+2025-09-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,699804,6214,291,29,31042.89,29474.87
+2025-10-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,610081,6294,310,32,31022.81,33244.14
+2025-11-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,820802,6922,265,28,36265.97,28846.24
+2025-12-01,CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,944847,9491,361,33,41289.51,32438.92
+2025-01-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,277192,2481,101,11,20901.59,10908.97
+2025-02-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,361032,3662,176,14,22827.95,15799.17
+2025-03-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,310166,2820,103,11,20822.17,11403.55
+2025-04-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,341340,3028,118,10,23724.29,10286.3
+2025-05-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,330409,3397,138,15,21364.21,16665.31
+2025-06-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,303989,2724,101,8,21301.99,7815.29
+2025-07-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,327520,2785,100,9,23880.08,9012.09
+2025-08-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,311317,2880,126,11,22271.89,12011.9
+2025-09-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,335413,2930,106,11,24815.86,10539.47
+2025-10-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,336534,3392,142,14,24012.42,13096.33
+2025-11-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,264645,2691,117,12,20511.75,12096.27
+2025-12-01,CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,416992,3927,133,13,27913.78,12999.75
+2025-01-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,210819,1494,65,6,16961.0,5456.82
+2025-02-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,201470,1686,79,6,17347.68,6176.58
+2025-03-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,238549,2136,79,7,18390.17,7042.27
+2025-04-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,179931,1521,56,5,16421.13,4559.98
+2025-05-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,278198,2811,120,9,20566.69,8388.03
+2025-06-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,227367,2048,89,7,18582.37,7109.29
+2025-07-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,242084,2435,116,12,19093.93,12355.67
+2025-08-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,177577,1630,67,5,16003.01,5152.95
+2025-09-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,255614,2228,95,7,19904.45,7116.07
+2025-10-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,215885,1615,73,7,16498.93,7220.4
+2025-11-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,235276,2068,94,9,19637.05,8619.36
+2025-12-01,CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,242528,2299,99,7,21083.42,6976.46
+2025-01-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,437693,4317,210,20,25374.5,24239.79
+2025-02-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,352309,3730,156,14,20081.66,17507.07
+2025-03-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,387115,3682,131,13,24341.45,15829.06
+2025-04-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,509735,4013,181,19,27644.35,22879.77
+2025-05-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,437699,3235,126,11,23892.85,12058.27
+2025-06-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,417442,3685,157,15,23275.29,15603.65
+2025-07-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,436107,4060,159,15,23720.87,16519.22
+2025-08-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,424370,4367,210,25,23031.07,29141.46
+2025-09-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,391445,3062,119,11,22920.65,11536.23
+2025-10-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,440824,3942,140,12,26069.45,13090.56
+2025-11-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,482859,3866,139,12,29761.74,15027.24
+2025-12-01,CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,455636,4546,179,16,28257.72,19545.98

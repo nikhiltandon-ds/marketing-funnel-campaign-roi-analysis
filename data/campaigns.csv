@@ -1,0 +1,31 @@
+campaign_id,campaign_name,channel,campaign_type,segment,region,campaign_multiplier
+CMP001,PaidSearch_LeadGen_01,Paid Search,Lead Gen,B2B,North,1.187
+CMP002,PaidSearch_Retargeting_02,Paid Search,Retargeting,Consumer,East,0.81
+CMP003,PaidSearch_LeadGen_03,Paid Search,Lead Gen,Mid-Market,East,1.287
+CMP004,PaidSearch_Retargeting_04,Paid Search,Retargeting,SMB,North,1.325
+CMP005,PaidSearch_Retargeting_05,Paid Search,Retargeting,SMB,East,0.8
+CMP006,PaidSocial_Retargeting_01,Paid Social,Retargeting,B2B,West,1.039
+CMP007,PaidSocial_LeadGen_02,Paid Social,Lead Gen,Mid-Market,East,1.115
+CMP008,PaidSocial_LeadGen_03,Paid Social,Lead Gen,B2B,South,1.013
+CMP009,PaidSocial_Retargeting_04,Paid Social,Retargeting,B2B,North,0.905
+CMP010,PaidSocial_Acquisition_05,Paid Social,Acquisition,SMB,North,0.819
+CMP011,Email_Retargeting_01,Email,Retargeting,Consumer,North,0.838
+CMP012,Email_Retargeting_02,Email,Retargeting,B2B,East,0.73
+CMP013,Email_LeadGen_03,Email,Lead Gen,B2B,East,1.245
+CMP014,Email_Retargeting_04,Email,Retargeting,Consumer,South,1.278
+CMP015,Email_Retargeting_05,Email,Retargeting,SMB,North,0.8
+CMP016,Affiliate_LeadGen_01,Affiliate,Lead Gen,B2B,North,1.19
+CMP017,Affiliate_Retargeting_02,Affiliate,Retargeting,Mid-Market,South,0.869
+CMP018,Affiliate_Acquisition_03,Affiliate,Acquisition,Mid-Market,West,1.33
+CMP019,Affiliate_Retargeting_04,Affiliate,Retargeting,Consumer,South,1.244
+CMP020,Affiliate_LeadGen_05,Affiliate,Lead Gen,Consumer,East,1.118
+CMP021,Display_LeadGen_01,Display,Lead Gen,Mid-Market,East,0.918
+CMP022,Display_Acquisition_02,Display,Acquisition,Mid-Market,South,1.12
+CMP023,Display_LeadGen_03,Display,Lead Gen,Consumer,West,1.058
+CMP024,Display_LeadGen_04,Display,Lead Gen,SMB,East,1.036
+CMP025,Display_Retargeting_05,Display,Retargeting,Mid-Market,West,1.127
+CMP026,Video_Acquisition_01,Video,Acquisition,Consumer,South,1.007
+CMP027,Video_LeadGen_02,Video,Lead Gen,Consumer,East,1.239
+CMP028,Video_LeadGen_03,Video,Lead Gen,B2B,North,0.839
+CMP029,Video_LeadGen_04,Video,Lead Gen,Consumer,East,0.73
+CMP030,Video_Retargeting_05,Video,Retargeting,B2B,North,0.995
